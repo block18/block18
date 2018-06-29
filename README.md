@@ -2,7 +2,7 @@
 
 ## Contract
 
-This is Ethereum contract of 18T
+This is Ethereum contract of 18区（18T）
 
 ## White Paper
 
